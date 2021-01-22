@@ -32,11 +32,11 @@ left: 20%;
 }
 
 .card {
+width: 200px;
+height: 250px;
 background-image: url(../img/pattern.png);
 background-repeat: repeat;
 background-size: cover;
-width: 200px;
-height: 250px;
 background-color: #FFFFFF;
 border-radius: 10px;
 font-family: ‘Nerko One’, cursive;
@@ -60,7 +60,6 @@ margin: 0px 10px 10px 10px;
 
 .card:hover .card-image {
   display: block;
-
 }
 
 /* css for disappearing card */
