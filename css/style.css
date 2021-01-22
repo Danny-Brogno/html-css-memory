@@ -11,9 +11,10 @@ background-color: #add8e6;
 .container {
 margin: 10px auto;
 width: 80%;
+position: relative;
 }
 
-#text-in-heading{
+#text-in-heading {
 text-align: center;
 padding: 3%;
 position: relative;
@@ -24,8 +25,10 @@ color: #FFFFFF;
 }
 /* start of main */
 
-.first-line{
+.first-line {
 display: inline-block;
+position: absolute;
+left: 20%;
 }
 
 .card {
