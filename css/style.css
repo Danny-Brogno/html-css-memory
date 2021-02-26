@@ -12,13 +12,13 @@ background-color: #add8e6;
 margin: 10px auto;
 width: 80%;
 position: relative;
+display: flex;
+justify-content: center;
 }
 
 #text-in-heading {
 text-align: center;
 padding: 3%;
-position: relative;
-right: 4%;
 font-size: 300%;
 font-family: ‘Nerko One’, cursive;
 color: #FFFFFF;
